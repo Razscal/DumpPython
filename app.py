@@ -6,4 +6,4 @@ def hello():
     """
     This is use for hello purpose
     """
-    return "Hello, World!"
+    return "Hello, Tuan has a nice day!"

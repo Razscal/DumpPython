@@ -3,4 +3,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
+    """
+    This is use for hello purpose
+    """
     return "Hello, World!"
